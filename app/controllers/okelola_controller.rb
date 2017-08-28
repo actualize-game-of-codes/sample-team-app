@@ -1,0 +1,2 @@
+class OkelolaController < ApplicationController
+end
